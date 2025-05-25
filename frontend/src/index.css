@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+nav a {
+  text-decoration: none;
+}
+
+* {
+  color: black;
+}
